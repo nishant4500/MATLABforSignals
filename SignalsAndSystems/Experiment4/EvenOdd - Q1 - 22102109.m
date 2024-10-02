@@ -9,13 +9,13 @@ subplot(4,1,1)
 stem(n,u);
 xlabel('n');
 ylabel('u(n)');
-title('Unit Step Function')
+title('lund nishant Step Function')
 
 subplot(4,1,2);
 stem(n ,un);
 xlabel('n');
 ylabel('u(-n)');
-title('Negative of Unit Step Function');
+title('Negative of chitranshu Step Function');
 
 subplot(4,1,3)
 stem(n,xe);
